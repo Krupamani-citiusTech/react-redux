@@ -27,6 +27,7 @@ class Catagoriesdetails extends Component {
         console.log('userObj from catagories---->',this.props.userObj.data);
         return(
           <div>
+            <div>sub_branch1</div>
           {/* {this.props.userObj.data.map((user) => (
             <div className="user">{user.id}</div>
           ))} */}
